@@ -1,12 +1,15 @@
 # Hackathon
- Covid-19
+# Covid-19
 PROBLEM DESCRIPTION : 
  
-Objective :To understand the distribution  of data in COVID-19 Cases and perform  various data processing operations using DATA STRUCTURES concept  
+Objective :
+To understand the distribution  of data in COVID-19 Cases and perform  various data processing operations using DATA STRUCTURES concept  
  
-Introduction : World Health Organisation (WHO) has  declared COVID-19 as a Public Health Emergency of International Concern (PHEIC) on 30 January 2020.  The COVID-19 infectious disease  is fast spreading across the countries, impacting the health of large numbers of people, and thus requires immediate actions to prevent the disease at the community level across the GLOBE. 
+Introduction :
+World Health Organisation (WHO) has  declared COVID-19 as a Public Health Emergency of International Concern (PHEIC) on 30 January 2020.  The COVID-19 infectious disease  is fast spreading across the countries, impacting the health of large numbers of people, and thus requires immediate actions to prevent the disease at the community level across the GLOBE. 
 As a Student community , it is a concern for the community as many of  our students travel across the states and countries for their project work, and internship work in future.  The result of this  RESEARCH cum Data TRENDS study of  this  Class Virtual hackathon is therefore crucial. The final outcome is aimed  towards understanding the infectious disease data pattern in the GLOBAL population such that the impact of COVID-19 has minimum effect on our students’  Project/Internship selection  planning process.  
-LIMITATION  : The result is limited to only Data  Exploration, Data observation and TRENDS. Exercise is not focusing on Forecasting or prediction modelling. 
+LIMITATION  :
+The result is limited to only Data  Exploration, Data observation and TRENDS. Exercise is not focusing on Forecasting or prediction modelling. 
 Problem Statements 
 1. Problem Statement 1:   
 1. Identity the countries as HIGH RISK TRAVEL destination countries for Internship or Project work for next two years. 
